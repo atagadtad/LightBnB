@@ -1,0 +1,255 @@
+         city         | count 
+----------------------+-------
+ Swan River           |    27
+ Eastend              |    39
+ Brandon              |    61
+ Turner Valley        |    26
+ Summerside           |   127
+ New Westminster      |    10
+ East Zorra-Tavistock |     7
+ Whitby               |    10
+ Norwich              |    15
+ Ajax                 |     8
+ Surrey               |    30
+ Moncton              |    17
+ Winnipeg             |    41
+ Olds                 |    26
+ Lunenburg County     |    13
+ Chester              |    32
+ Port Hardy           |     8
+ Penticton            |    13
+ Weyburn              |    67
+ Montreal-Est         |    23
+ Grand Falls          |    11
+ Cranberry Portage    |    87
+ Cornwall             |   190
+ Bonnyville           |    31
+ Lethbridge           |    34
+ Lacombe              |    33
+ Brigus               |    79
+ Maple Ridge          |    20
+ Kirkland Lake        |    27
+ Victoriaville        |     6
+ Terrace              |    10
+ Wasaga Beach         |    12
+ Lunenburg            |    18
+ Temagami             |     7
+ Nanaimo              |    11
+ Chicoutimi           |    41
+ Queens               |    49
+ Tisdale              |    87
+ Leduc                |    29
+ Chateauguay          |    19
+ Sarnia               |     7
+ Vancouver            |    51
+ Stonewall            |    70
+ Sooke                |    24
+ Mount Pearl          |    55
+ Nepean               |    13
+ Ft. Saskatchewan     |    35
+ Grand Bay-Westfield  |    50
+ Avonlea              |    24
+ Lasalle              |     5
+ Pictou County        |     8
+ Drayton Valley       |    13
+ Lincoln              |    10
+ Brantford            |     4
+ Prince Rupert        |    10
+ Fort Erie            |     9
+ Chesterville         |    22
+ Beaumont             |    52
+ Esterhazy            |    46
+ Argyle               |    44
+ Durham               |    23
+ Brazeau              |    16
+ LaSalle              |    30
+ Wainfleet            |     5
+ Argentia             |    62
+ Quebec               |     8
+ Thompson             |    55
+ Hants County         |    41
+ Timmins              |     8
+ Medicine Hat         |    13
+ Aylmer               |     7
+ North Bay            |    13
+ Port Bruce           |    12
+ Chemainus            |     6
+ Hanna                |    60
+ Wood Buffalo         |    38
+ Jonquiere            |    11
+ Thorold              |    10
+ Hull                 |    38
+ Whitehorse           |   376
+ Richmond             |    42
+ Ottawa               |    31
+ Whistler             |    35
+ Kincardine           |     5
+ Baddeck              |    23
+ Vernon               |    48
+ Saint-Leonard        |    17
+ Strathcona County    |    34
+ St. Johns            |   123
+ Shelburne            |    36
+ Quinte West          |     6
+ Stellarton           |    37
+ Yarmouth             |    13
+ Didzbury             |    17
+ Paradise             |   116
+ Shippagan            |    33
+ Goulbourn            |    16
+ Dorval               |    13
+ New Minas            |     8
+ Prince Albert        |    50
+ Osoyoos              |    32
+ Cumberland           |    15
+ Miramichi            |    58
+ Truro                |     7
+ North Vancouver      |    29
+ Sorel                |    23
+ Alma                 |    13
+ Tumbler              |    55
+ Brockville           |    12
+ Sylvan Lake          |    42
+ Sussex               |    39
+ Inverness County     |    44
+ Cranbrook            |    27
+ Camrose              |    47
+ Taber                |    25
+ Vermillion           |    21
+ Burlington           |     9
+ Pictou               |    42
+ Hamilton             |    10
+ Orillia              |    13
+ City of Port Moody   |    10
+ Swift Current        |    50
+ Dymond               |    12
+ Yellowknife          |   257
+ Joliette             |    10
+ Mission              |    30
+ Owen Sound           |     8
+ Coaticook            |    71
+ Strathmore           |     7
+ Swan Hills           |    81
+ Halifax              |    16
+ Calgary              |    15
+ Castlegar            |    21
+ Peterborough         |     4
+ Fernie               |    35
+ Larder Lake          |     7
+ Dauphin              |    44
+ Cache Creek          |    10
+ Spruce Grove         |    28
+ Markham              |     5
+ Snow Lake            |   101
+ Oakville             |    13
+ Fredericton          |    74
+ Flin Flon            |   103
+ Windsor              |    12
+ Thetford Mines       |    32
+ Botwood              |    96
+ Airdrie              |    41
+ Belleville           |    15
+ McLennan             |    38
+ Labrador City        |    57
+ Woolwich             |     7
+ Grande Prairie       |    17
+ Marieville           |    19
+ Merritt              |     9
+ New Glasgow          |    10
+ Edmonton             |    42
+ Wynyard              |    49
+ Kamloops             |    10
+ Wilmot               |     7
+ Birtle               |    37
+ Peace River          |    27
+ North Cowichan       |    46
+ Parrsboro            |    72
+ Town of Hay River    |   379
+ Invermere            |    44
+ Cobourg              |     9
+ Sherbrooke           |    42
+ Brosssard            |    27
+ Port Alberni         |     8
+ Saint Stephen        |    53
+ Stratford            |   102
+ Cap-Pele             |    53
+ Thunder Bay          |     5
+ Shell Lake           |    18
+ Haldimand-Norfork    |    11
+ Creighton            |    58
+ Cumberland County    |    28
+ The Pas              |    64
+ Montreal             |    47
+ Regina               |    40
+ Melfort              |    37
+ Memramcook           |    39
+ Lumby                |    16
+ Colwood              |     6
+ Anjou                |    11
+ Halton Hills         |     9
+ Irricana             |    23
+ Elgin                |    11
+ Beauport             |    27
+ Lindsay              |     8
+ Saskatoon            |    30
+ Mount Royal          |    18
+ Leamington           |     7
+ Saint John           |    71
+ Montague             |   111
+ Carcross             |   405
+ Annapolis            |    40
+ Sackville            |    93
+ Yorkton              |    55
+ Coquitlam            |    41
+ Fleurimont           |    44
+ Craik                |    34
+ Delta                |    15
+ Kingston             |    14
+ Gravelbourg          |    24
+ Vaughan              |    12
+ Saanich              |    37
+ Amherst              |    18
+ Bishops Falls        |    80
+ Huntsville           |    11
+ Corner Brook         |    95
+ Lennoxville          |    26
+ Chilliwack           |    10
+ Kentville            |    42
+ Oromocto             |    27
+ Gatineau             |    24
+ Nipawin              |    32
+ Tracadie-Sheila      |    75
+ County of Kings      |     4
+ Colonsay             |    78
+ Amos                 |    16
+ Charlottetown        |    85
+ Cape Breton          |    36
+ Parksville           |    59
+ Levis                |    39
+ Drummondville        |     4
+ Atikokan             |     9
+ Town of Inuvik       |   298
+ East Hants           |    31
+ Victoria             |    24
+ Steinbach            |   120
+ Sparwood             |    11
+ Kaslo                |    12
+ Port Elgin           |    21
+ Mahone Bay           |    31
+ Unity                |    64
+ Langley              |     8
+ Portaux Basques      |   102
+ Provost              |     5
+ Ingersoll            |     8
+ Breton               |    38
+ Hinton               |    37
+ Bridgewater          |    27
+ Souris               |   164
+ Alberton             |   152
+ St. Albert           |    42
+ Newmarket            |    10
+ Laval                |    47
+ Niagara-on-the-Lake  |    21
+ Georgina             |    25
+(251 rows)
+
