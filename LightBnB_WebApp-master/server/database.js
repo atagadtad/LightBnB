@@ -110,6 +110,13 @@ const getAllProperties = function (options, limit = 10) {
     queryString += `WHERE city LIKE $${queryParams.length}`;
   }
 
+  if (options.owner_id) {
+    queryParams.push(`${options.owner_id}`);
+    queryString += `
+    JOIN users ON users.id = owner_id
+    WHERE users.id = $${options.owner_id}`
+  }
+
   queryParams.push(limit);
   queryString += `
     GROUP BY properties.id
