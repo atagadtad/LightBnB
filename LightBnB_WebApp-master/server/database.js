@@ -117,6 +117,18 @@ const getAllProperties = function (options, limit = 10) {
     WHERE users.id = $${options.owner_id}`
   }
 
+  if (options.minimum_price_per_night && options.maximum_price_per_night) {
+    queryParams.push(`${options.minimum_price_per_night}`, `${options.maximum_price_per_night}`);
+    queryString += `
+    AND cost_per_night > $2 AND cost_per_night < $3`
+  }
+
+  if (options.minimum_rating) {
+    queryParams.push(`${options.minimum_rating}`);
+    queryString += `
+    AND property_reviews.rating > $4`
+  }
+
   queryParams.push(limit);
   queryString += `
     GROUP BY properties.id
